@@ -1,2 +1,1 @@
-# Tugas-pertemuan-1.io.
-Tugas pertemuan 1
+Tugas-pertemuan-1.io.
